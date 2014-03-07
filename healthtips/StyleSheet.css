@@ -1,0 +1,87 @@
+﻿body
+{
+	background-color:#b7b7b7;
+}
+		
+		#signup
+        {
+            width: 311px;
+            height: 249px;
+        }
+       .style1
+        {
+            font-size: 2.27168e+014;
+        }
+        .link
+        {
+        	border: 1px solid white;
+        	padding:5px 5px 5px 5px;
+        	color: #ffffff;
+        	border-radius: 3px 0px 3px 0px;
+        }
+        .link:hover
+        {
+        	border: 1px solid black;
+        	border-radius:5px;
+        	padding: 5px 5px 5px 5px;
+        	color: #000000;
+        	background-color:White;
+        }
+        .link1
+        {
+        	border: 1px solid black;
+        	padding:5px 5px 5px 5px;
+        	color: #000000;
+        	
+        }
+        .link1:hover
+        {
+        	border: 1px solid white;
+        	border-radius:5px;
+        	padding: 5px 5px 5px 5px;
+        	color: #ffffff;
+        	background-color:black;
+        	
+        }
+        a
+        {
+        	text-decoration: none;
+        }
+        
+        #form1
+        {
+            height: 213px;
+            width: 1116px;
+        }
+        
+        ::-webkit-scrollbar
+        {
+        	display: none;
+        }
+        
+        .bt
+        {
+        	padding: 5px 10px;
+        	border:0px solid black;
+        	border-radius: 4px;
+        	background-color: white;
+        	color:#292faf;
+        	z-index: 1;
+}
+
+       .bt:hover
+        {
+        	padding: 5px 10px;
+        	border:1px solid black;
+        	border-radius: 4px;
+        	background-color: #292faf;
+        	color:white;
+        } 
+/*.hom{ 
+background-image:url('images/hel.jpg');
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-size: cover;
+height: 445px;
+width: 801px;
+}*/
